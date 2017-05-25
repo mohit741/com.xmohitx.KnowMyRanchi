@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.xmohitx.knowmyranchi.places_to_visit"
+    tools:showIn="@layout/activity_places_to_visit"
+    android:background="#80ccffff">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Jonha Falls"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/textView8" />
+
+        <ImageView
+    android:layout_width="249dp"
+    android:layout_height="161dp"
+    android:id="@+id/imageView2"
+    android:src="@drawable/jonha_falls"
+    android:layout_marginRight="44dp"
+    android:layout_marginEnd="44dp"
+            android:contentDescription="Jonha Falls" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/jonha"
+        android:id="@+id/textView7"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="20dp" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/viewmap"
+            android:background="@null"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/jonha_map"
+            android:textSize="15sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Panchgagh Falls"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/textView9" />
+
+        <ImageView
+            android:layout_width="249dp"
+            android:layout_height="161dp"
+            android:id="@+id/imageView3"
+            android:src="@drawable/panchghagh"
+            android:layout_marginRight="44dp"
+            android:layout_marginEnd="44dp"
+            android:layout_marginStart="-14dp"
+
+            android:contentDescription="Panchgagh Falls" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/panchgagh"
+            android:id="@+id/textView10"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="20dp" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/viewmap"
+            android:background="@null"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/panch_map"
+            android:textSize="15sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Dassam Falls"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/textView11" />
+
+        <ImageView
+            android:layout_width="249dp"
+            android:layout_height="161dp"
+            android:id="@+id/imageView4"
+            android:src="@drawable/dassam"
+            android:layout_marginRight="44dp"
+            android:layout_marginEnd="44dp"
+            android:contentDescription="Dassam Falls" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dassam"
+            android:id="@+id/textView12"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="20dp" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/viewmap"
+            android:background="@null"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/das_map"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Pahari Mandir"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/textView13" />
+
+        <ImageView
+            android:layout_width="249dp"
+            android:layout_height="161dp"
+            android:id="@+id/imageView5"
+            android:src="@drawable/pahari"
+            android:layout_marginRight="44dp"
+            android:layout_marginEnd="44dp"
+            android:contentDescription="Pahari Mandir"
+            android:layout_marginStart="-18dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txtpahari"
+            android:id="@+id/textView14"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="20dp" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/viewmap"
+            android:background="@null"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/pahari_map"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Rock Garden"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/textView15" />
+
+        <ImageView
+            android:layout_width="249dp"
+            android:layout_height="161dp"
+            android:id="@+id/imageView6"
+            android:src="@drawable/rock_garden"
+            android:layout_marginRight="44dp"
+            android:layout_marginEnd="44dp"
+            android:contentDescription="Rock Garden"
+            android:layout_marginStart="-18dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txtrock"
+            android:id="@+id/textView16"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="20dp" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/viewmap"
+            android:background="@null"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:id="@+id/rock_map"
+            android:textSize="15sp" />
+    </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

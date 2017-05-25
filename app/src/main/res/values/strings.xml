@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Know My Ranchi</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+    <string name="to">To</string>
+    <string name="know_my_ranchi">Know My Ranchi</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quickfacts">QuickFacts</string>
+    <string name="title_activity_know_about_ranchi">Know about Ranchi</string>
+    <string name="title_activity_main_menu">Main Menu</string>
+    <string name="next">Next</string>
+    <string name="are_you_new_to_ranchi">Are you new to Ranchi ?</string>
+    <string name="this_app_will_help_you_know_ranchi">This app will help you know Ranchi better.</string>
+    <string name="app">App</string>
+    <string name="know_my_ranchi1"><b>Ranchi</b> is the capital city of Jharkhand. It is also known as the city of falls.</string>
+    <string name="title_activity_quick_facts">Quick facts</string>
+    <string name="jonha">
+       Situated at an edge of the Ranchi plateau, the Jonha Falls is an example of a hanging valley falls. The Gunga River hangs over its master stream, Raru River and forms the falls.One has to descend 722 steps to admire the surroundings.Water in the falls drops from a height of 43 metres (141 ft).\nThe Jonha Falls is 40 kilometres (25 mi) from Ranchi. It is approachable by both road and train.Jonha Station is just 1.5 km from the fall. For travel by road, one has to take the Ranchi-Purulia Road and after travelling for about 20 miles (32 km) one has to travel about 3 miles (4.8 km) off the main road.
+    </string>
+    <string name="places_to_visit">Places to visit</string>
+    <string name="panchgagh">In its bid to find its way through the hard and jagged terrain, the Banai River branches itself out in five different streams, generating ubiquitous singing rivulets through the cluster of rocks. One writer says, “Unlike Jonha and Hundru Falls, Panchghagh\’s water does not fall from great heights. Still, one can almost hear the roar of the water when one arrives near it, because all the five branched-out and swirling streams hit the rocks in a very turbulent manner. It\’s a treat to watch and hear.” In spite of the presence of a large number of high waterfalls in the area, the Panchghagh Falls are a tourists\' preference for being viewed as the safest of all. The water falls from a lesser height, making it safe for tourists to enjoy in the rapid flow of water. Most of the people arrive here for picnic with family and friends.According to plans of the Tourism Department of the Government of Jharkhand, the Panchghagh Waterfalls will soon get a kiosk, a restaurant, toilets, fastfood joints, lighting facilities and a watchtower.\nPanchghagh Falls is 5 kilometres (3.1 mi) from Khunti on the road to Simdega. It is 55 kilometres (34 mi) from Ranchi. Khunti is on NH 75 or Ranchi-Chaibasa Highway.</string>
+    <string name="find_in_ranchi">Find in Ranchi</string>
+    <string name="dassam">The Dassam Fall (also known as Dassam Ghagh) is a waterfall located near Taimara village in Bundu police station of Ranchi district in the Indian state of Jharkhand.
+The Dassam Falls is a natural cascade across the Kanchi River, a tributary of the Subarnarekha River. The water falls from a height of 44 metres (144 ft). The sound of water echoes all around the place. Dassam Falls at one of the edges of the Ranchi plateau is one of the many scarp falls in the region.
+The water of the Dassam Falls is very clean and clear. It is natural for a tourist to be enticed to enter the water for a bath or swim but tourists are warned not to do so because of the current that is generated. There have been many cases of drowning in Dassam Falls. Nine people died of drowning between 2001 and 2006.\nThe Dassam Falls is 40 kilometres (25 mi) from Ranchi on NH 33 or Ranchi-Jamshedpur highway.
+</string>
+    <string name="administration">Administration</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_places_to_visit">Places to visit in Ranchi</string>
+    <string name="viewmap">Get directions…</string>
+    <string name="txtpahari">Pahari mandir ( Hill Temple ) is located at Ratu road in Ranchi is popular for Lord Shiva temple at the pinnacle of the hill. Breathtaking view of Ranchi city from the top of the hill is awesome. The distance of Pahari mandir from Ranchi railway station is 7 kms. Recently Pahari mandir was in news for hoisting largest national flag of India over tallest pole.</string>
+    <string name="txtrock">A beautiful place to hang out with friends, families, relatives and loved ones. Entry ticket Rs.20 per adult. Vehicle parking facilities available.</string>
+    <string name="title_activity_about">About</string>
+    <string-array name="restnames">
+        <item><b>The Kaveri Restaurant</b>\nCasual restaurant serving pan Indian dishes, buffets and thalis.\nAll you can eat • Quiet • Cosy</item>
+        <item><b>Seasons</b>\nAll you can eat • Casual • Delivery</item>
+        <item>The Kaveri Restaurant</item>
+        <item>The Kaveri Restaurant</item>
+    </string-array>
+</resources>

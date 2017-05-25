@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.xmohitx.knowmyranchi.find_in_ranchi"
+    android:background="#80ccffff">>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Transportation"
+                android:id="@+id/button6"
+                android:drawableLeft="@drawable/bus"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/button_round_edge"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hospitals"
+                android:id="@+id/button7"
+                android:drawableLeft="@drawable/hospital"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="30dp"
+            android:background="@drawable/button_round_edge"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Education Hubs"
+                android:id="@+id/button8"
+                android:drawableLeft="@drawable/edu"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/button_round_edge"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Shopping Malls"
+                android:id="@+id/button9"
+                android:drawableLeft="@drawable/mall"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/button_round_edge"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Movie Theatres"
+                android:id="@+id/button10"
+                android:drawableLeft="@drawable/movie"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/button_round_edge"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Restaurants"
+                android:id="@+id/button11"
+                android:drawableLeft="@drawable/res"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/button_round_edge"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"/>
+            <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fitness Centres"
+            android:id="@+id/button12"
+            android:drawableLeft="@drawable/gym"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="30dp"
+            android:background="@drawable/button_round_edge"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+
+</RelativeLayout>
