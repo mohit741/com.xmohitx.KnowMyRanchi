@@ -20,5 +20,45 @@ public class find_in_ranchi extends AppCompatActivity {
                 startActivity(in);
             }
         });
+        btn =(Button)findViewById(R.id.button7);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in= new Intent(find_in_ranchi.this,hospitals.class);
+                startActivity(in);
+            }
+        });
+        btn =(Button)findViewById(R.id.button8);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in= new Intent(find_in_ranchi.this,education.class);
+                startActivity(in);
+            }
+        });
+        btn =(Button)findViewById(R.id.button9);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in= new Intent(find_in_ranchi.this,malls.class);
+                startActivity(in);
+            }
+        });
+        btn =(Button)findViewById(R.id.button10);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in= new Intent(find_in_ranchi.this,theatres.class);
+                startActivity(in);
+            }
+        });
+        btn =(Button)findViewById(R.id.button12);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in= new Intent(find_in_ranchi.this,fitness.class);
+                startActivity(in);
+            }
+        });
     }
 }

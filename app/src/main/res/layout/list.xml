@@ -6,7 +6,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/txt1"
-        android:textAppearance="?android:attr/textAppearanceMedium"/>
+        android:layout_marginTop="15dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
     <RatingBar
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -20,7 +21,6 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:id="@+id/txt2"
-        android:textColor="#444444"
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"/>
 

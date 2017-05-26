@@ -48,7 +48,12 @@
             android:label="@string/title_activity_about"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".Admin" />
-        <activity android:name=".restaurants"></activity>
+        <activity android:name=".restaurants" />
+        <activity android:name=".hospitals" />
+        <activity android:name=".malls" />
+        <activity android:name=".theatres" />
+        <activity android:name=".fitness" />
+        <activity android:name=".education"></activity>
     </application>
 
 </manifest>
