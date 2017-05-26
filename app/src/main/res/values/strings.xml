@@ -42,9 +42,15 @@ The water of the Dassam Falls is very clean and clear. It is natural for a touri
     <string name="txtrock">A beautiful place to hang out with friends, families, relatives and loved ones. Entry ticket Rs.20 per adult. Vehicle parking facilities available.</string>
     <string name="title_activity_about">About</string>
     <string-array name="restnames">
-        <item><b>The Kaveri Restaurant</b>\nCasual restaurant serving pan Indian dishes, buffets and thalis.\nAll you can eat • Quiet • Cosy</item>
-        <item><b>Seasons</b>\nAll you can eat • Casual • Delivery</item>
         <item>The Kaveri Restaurant</item>
-        <item>The Kaveri Restaurant</item>
+        <item>Seasons</item>
+    </string-array>
+    <string-array name="restd">
+        <item>Casual restaurant serving pan Indian dishes, buffets and thalis.\nAll you can eat • Quiet • Cosy</item>
+        <item>All you can eat • Casual • Delivery</item>
+    </string-array>
+    <string-array name="rates">
+        <item>4.5</item>
+        <item>4.0</item>
     </string-array>
 </resources>

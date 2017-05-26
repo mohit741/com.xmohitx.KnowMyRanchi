@@ -9,16 +9,16 @@ import android.widget.RatingBar;
 import android.widget.TextView;
 
 /**
- * Created by HP on 5/25/2017.
+ *Adapter class which is used to populate customListView
  */
 public class adapter extends ArrayAdapter<String> {
     String[] names={};
     String[] details={};
-    float[] rate={};
+    String[] rate={};
     Context c;
     LayoutInflater inflater;
 
-    public adapter(Context context, String[] names, String[] details, float[] rate) {
+    public adapter(Context context, String[] names, String[] details, String[] rate) {
         super(context, R.layout.list,names);
         this.c=context;
         this.names=names;
@@ -44,7 +44,7 @@ public class adapter extends ArrayAdapter<String> {
         holder.rat=(RatingBar) convertView.findViewById(R.id.ratingBar);
         holder.name.setText(names[position]);
         holder.detail.setText(details[position]);
-        holder.rat.setRating(rate[position]);
-        return super.getView(position, convertView, parent);
+        holder.rat.setRating(Float.parseFloat(rate[position]));
+        return convertView;
     }
 }

@@ -18,13 +18,14 @@ public class restaurants extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_restaurants);
         list=(ListView)findViewById(R.id.listView);
-        String[] str=getResources().getStringArray(R.array.restnames);
-        ArrayAdapter<String> adapter= new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1,str);
+        String[] names=getResources().getStringArray(R.array.restnames);
+        String[] details=getResources().getStringArray(R.array.restd);
+        String[] rates=getResources().getStringArray(R.array.rates);
+        adapter adapter= new adapter(this,names,details,rates);
         list.setAdapter(adapter);
         list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent,View v,int pos,long id) {
-                int itempos=pos;
                 String value=(String)list.getItemAtPosition(pos);
                 Uri uri= Uri.parse("geo:0,0?q="+Uri.encode(value)+Uri.encode(" Ranchi"));
                 Intent in= new Intent(Intent.ACTION_VIEW,uri);
