@@ -7,7 +7,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/txt1"
         android:layout_marginTop="15dp"
-        android:textAppearance="?android:attr/textAppearanceLarge"/>
+        android:textSize="25sp"
+        android:textColor="#000000"/>
     <RatingBar
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -19,7 +20,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textAppearance="?android:attr/textAppearanceSmall"
         android:id="@+id/txt2"
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"/>

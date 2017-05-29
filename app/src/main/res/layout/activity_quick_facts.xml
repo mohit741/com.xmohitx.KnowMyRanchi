@@ -12,6 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:fitsSystemWindows="true"
+        android:background="@drawable/flag"
         android:theme="@style/Base.Theme.AppCompat">
 
         <android.support.design.widget.CollapsingToolbarLayout

@@ -12,6 +12,14 @@ public class find_in_ranchi extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_find_in_ranchi);
+        btn =(Button)findViewById(R.id.button6);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in= new Intent(find_in_ranchi.this,transport.class);
+                startActivity(in);
+            }
+        });
         btn =(Button)findViewById(R.id.button11);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override

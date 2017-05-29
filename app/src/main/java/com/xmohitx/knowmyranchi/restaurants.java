@@ -20,7 +20,7 @@ public class restaurants extends AppCompatActivity {
         list=(ListView)findViewById(R.id.listView);
         String[] names=getResources().getStringArray(R.array.restnames);
         String[] details=getResources().getStringArray(R.array.restd);
-        String[] rates=getResources().getStringArray(R.array.rates);
+        String[] rates=getResources().getStringArray(R.array.resrates);
         adapter adapter= new adapter(this,names,details,rates);
         list.setAdapter(adapter);
         list.setOnItemClickListener(new AdapterView.OnItemClickListener() {

@@ -44,13 +44,467 @@ The water of the Dassam Falls is very clean and clear. It is natural for a touri
     <string-array name="restnames">
         <item>The Kaveri Restaurant</item>
         <item>Seasons</item>
+        <item>Seventh Heaven</item>
+<item>Yellow Sapphire</item>
+<item>Jungli Moon Dance Restaurant</item>
+<item>Moti Mahal Delux Tandoori Trail</item>
+<item>Food Belle Restaurant</item>
+<item>Mahi Restaurants &amp; Banquets</item>
+<item>Hot Lips</item>
+<item>The Kav\'s Restaurant</item>
+<item>Planet Masala</item>
+<item>Angithi Restaurant</item>
+<item>Silver Spoon</item>
+<item>Trishna Family Restaurant</item>
+<item>Krsna Restaurant</item>
+<item>Palash Restaurant</item>
+<item>The Best Restaurant</item>
+<item>Bawarchi</item>
+<item>Hot Lips</item>
+<item>Dawat Restaurant</item>
+<item>Aroma Family Restaurant</item>
+<item>Jungli Restaurant</item>
+<item>Vyanjan Restaurant</item>
+<item>Flaves</item>
+<item>Chashm -e- Shahi</item>
+<item>Addiction</item>
+<item>PRANA</item>
+<item>Hotel Raj Gharana</item>
+<item>Mumbai Mail</item>
+<item>FLY KITCHEN</item>
+<item>Zero Mile Restaurant &amp; Banquets</item>
+<item>Kanha\'s Kitchen AC, Family Restaurant</item>
+<item>SUBWAY RANCHI</item>
+<item>Pizza Hut, Ranchi</item>
+<item>Junglee Restaurant</item>
+<item>Punjabi Kitchen</item>
+<item>Gaon Restaurant</item>
+<item>Birsa Munda Food Plaza</item>
+<item>Lazeez Restaurant</item>
+<item>Chennai Kitchen</item>
+<item>KFC</item>
+<item>OMG</item>
+<item>Little Italiano</item>
+<item>Hotlips Inn</item>
+<item>Eatopedia Food Lounge</item>
+        <item>Top\' N Town</item>
+        <item>New Anand Vatika Restaurant</item>
+        <item>Cafe Mughal\'s</item>
+        <item>Chopsticks Restaurant</item><item>HOOCH</item>
+        <item>Mr &amp; Mrs IDLY</item>
+        <item>Olive Restaurant</item>
+        <item>Olive Restaurant</item>
+        <item>Jalajoga Restaurant</item>
+        <item>Chimni Restaurant (Hotel Pearl Regency)</item>
+        <item>Rasoi Restaurant &amp; Vatika Banquet Hall</item>
+        <item>Flaves</item>
+        <item>Cafe Zam Zam</item>
     </string-array>
+
     <string-array name="restd">
         <item>Casual restaurant serving pan Indian dishes, buffets and thalis.\nAll you can eat • Quiet • Cosy</item>
         <item>All you can eat • Casual • Delivery</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>International buffet breakfasts and lunches and a la carte dinners in a stylish hotel restaurant.</item>
+        <item>Casual • Groups</item>
+        <item>All you can eat • Quiet • Cozy</item>
+        <item>All you can eat • Quiet • Casual</item>
+        <item>Quiet • Casual • Good for kids</item>
+        <item>Casual • Locals • Delivery</item>
+        <item>All you can eat • Quiet • Casual</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>All you can eat • Quiet • Casual</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Groups</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>Restaurant Supply Store</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>All you can eat • Quiet • Casual</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Quiet • Cozy • Casual</item>
+        <item>All you can eat • Casual • Delivery</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Groups</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>All you can eat • Casual • Locals</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>Casual counter-serve chain for build-your-own sandwiches &amp; salads</item>
+        <item>Family-friendly chain known for its made-to-order pizzas.</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>All you can eat • Casual • Locals</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>Fast-food chain known for its buckets of fried chicken, plus wings &amp; sides.</item>
+        <item>Casual • Groups</item>
+        <item>Casual • Groups</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Locals • Delivery</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>Casual • Groups</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Delivery</item>
+        <item>Hookah Bar</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Groups</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Delivery • Good for kids</item>
+        <item>Family Restaurant</item>
+        <item>Casual • Good for kids • Groups</item>
+        <item>Casual • Groups</item>
     </string-array>
-    <string-array name="rates">
+    <string-array name="resrates">
         <item>4.5</item>
-        <item>4.0</item>
+        <item>3.8</item>
+        <item>4.2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4.1</item>
+        <item>3.9</item>
+        <item>3.5</item>
+        <item>4.1</item>
+        <item>3.9</item>
+        <item>3.6</item>
+        <item>3.9</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>4.2</item>
+        <item>3.9</item>
+        <item>4.5</item>
+        <item>3.7</item>
+        <item>3.5</item>
+        <item>3.8</item>
+        <item>3.9</item>
+        <item>3.9</item>
+        <item>3.3</item>
+        <item>3.8</item>
+        <item>3.7</item>
+        <item>3.6</item>
+        <item>4.3</item>
+        <item>3.6</item>
+        <item>4.3</item>
+        <item>3.9</item>
+        <item>3.6</item>
+        <item>3.2</item>
+        <item>4.1</item>
+        <item>4</item>
+        <item>3</item>
+        <item>3.9</item>
+        <item>3.5</item>
+        <item>3.8</item>
+        <item>4.7</item>
+        <item>3.9</item>
+        <item>4</item>
+        <item>4.5</item>
+        <item>3.8</item>
+        <item>3.8</item>
+        <item>5</item>
+        <item>3.9</item>
+        <item>4.1</item>
+        <item>4.1</item>
+        <item>5</item>
+        <item>3.7</item>
+        <item>3.8</item>
+        <item>3.6</item>
+        <item>1</item>
+        <item>3.9</item>
+        <item>4</item>
+        <item>4.8</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>4.2</item>
     </string-array>
+    <string-array name="hmanes">
+        <item>Santevita Hospital (NABH Accredited)</item>
+        <item>Orchid Medical Centre</item>
+        <item>Raj Hospitals</item>
+        <item>Devkamal Hospital and Research Center</item>
+        <item>Bhagwan Mahavir Medica Superspecialty Hospital</item>
+        <item>Vivekanand Hospital</item>
+        <item>Alam Hospital And Research Centre Pvt Ltd</item>
+        <item>Harmu Hospital &amp; Research Centre</item>
+        <item>Kashyap Memorial Eye Hospital</item>
+        <item>Rani Hospital</item>
+        <item>Ranchi Hospital &amp; Research Centre</item>
+        <item>Prabhawati Hospital</item>
+        <item>Guru Nanak Hospital &amp; Research Center</item>
+        <item>Hill View Hospital</item>
+        <item>Bharati Hospital</item>
+        <item>Health Point Hospitals Ranchi</item>
+        <item>Rinchi Trust Hospital</item>
+        <item>R P O C Hospital</item>
+        <item>Medanta Hospital Ranchi</item>
+        <item>Anjuman Islamia Hospital</item>
+        <item>Ranchi Nagar Nigam Devkamal Hospital</item>
+    </string-array>
+    <string-array name="hrates">
+        <item>4.1</item>
+        <item>3.9</item>
+        <item>3.6</item>
+        <item>3.5</item>
+        <item>2.6</item>
+        <item>3.1</item>
+        <item>3.9</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3.7</item>
+        <item>2.9</item>
+        <item>3.6</item>
+        <item>3</item>
+        <item>3.5</item>
+        <item>4.4</item>
+        <item>4</item>
+        <item>2.8</item>
+        <item>3.2</item>
+        <item>3.2</item>
+        <item>2.8</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>5</item>
+    </string-array>
+	<string-array name="hd">
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+	<item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+
+    <string-array name="mallnames">
+        <item>Galaxia Mall</item>
+        <item>JD Hi Street Mall</item>
+        <item>M.R. Shopping Centre</item>
+        <item>Eastern Mall</item>
+        <item>Spring City Mall</item>
+         <item>Big Shop</item>
+        <item>Nucleus Mall Ranchi Square</item>
+        <item>Panchwati Plaza</item>
+        <item>Big Shop</item>
+        <item>Manyavar</item>
+        <item>YMCA Ranchi</item>
+        <item>Ranchi Bazaar</item>
+        <item>Rospa Tower</item>
+        <item>Vishal Mega Mart</item>
+        <item>Malabar Enclave</item>
+         <item>FYNkart</item>
+        <item>CITY STYLE</item>
+        <item>Kashmir Vastralaya Collections</item>
+        <item>WOODLAND SHOW ROOM</item>
+         <item>Urvashi</item>
+        <item>Pantaloons</item>
+        <item>Big Bazar</item>
+         <item>Fabindia</item>
+         <item>Firstcry.com Baby Store</item>
+         <item>Plastic Centre - Best Plastic Goods Shops</item>
+         <item>IMPRESSION - Top Sports Shop in Ranchi</item>
+         <item>The Raymond Shop</item>
+         <item>Sri Ratan Jewellers</item>
+         <item>Swadeshi Ashram Product Shop</item>
+          <item>JHARCRAFT</item>
+         <item>R.C. Firayalal &amp; Co.</item>
+         <item>Radhima Collection</item>
+         <item>Scooby Doo Pet Shop</item>
+         <item>Ferns N Petals – Florist &amp; Gift Shop</item>
+</string-array>
+
+    <string-array name="mrates">
+        <item>3.7</item>
+        <item>4.1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4.2</item>
+        <item>3.7</item>
+        <item>4.3</item>
+        <item>3.6</item>
+        <item>3</item>
+        <item>4</item>
+        <item>3.3</item>
+        <item>3.9</item>
+        <item>3.9</item>
+        <item>3</item>
+        <item>3.2</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>3.6</item>
+        <item>4</item>
+        <item>3.3</item>
+        <item>5</item>
+        <item>5</item>
+        <item>4.1</item>
+        <item>4</item>
+        <item>3</item>
+        <item>3.7</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4.4</item>
+        <item>3.8</item>
+		<item>4.4</item>
+        <item>3.8</item>
+    </string-array>
+    <string-array name="mdetails">
+        <item>Shopping Mall</item>
+        <item>Shopping Mall</item>
+        <item>Shopping Mall</item>
+        <item>Shopping Mall</item>
+        <item>Shopping Mall</item>
+        <item>Clothing Store</item>
+        <item>Shopping Mall</item>
+        <item>Real Estate Agency</item>
+        <item>Clothing Store</item>
+        <item>Men\'s Clothing Store</item>
+        <item>Shopping Mall</item>
+        <item>Shopping Mall</item>
+        <item>Shopping Mall</item>
+        <item>Shopping Mall</item>
+        <item>Shopping Mall</item>
+        <item>Shopping Mall</item>
+        <item>Shopping Mall</item>
+        <item>Clothing Store</item>
+        <item>Men\'s Clothing Store</item>
+        <item>Clothing Store</item>
+        <item>Shopping Mall</item>
+        <item>Shopping Mall</item>
+        <item>Clothing Store</item>
+        <item>Baby store</item>
+        <item>Plastic Wholesaler</item>
+        <item>Gift Shop</item>
+        <item>Clothing Store</item>
+        <item>Jewelry Store</item>
+        <item>Ayurvedic Pharmacy</item>
+        <item>Clothing Store</item>
+        <item>Clothing Store</item>
+        <item>Shopping Mall</item>
+        <item>Pet Store</item>
+        <item>Florist</item>
+    </string-array>
+    <string-array name="gymnames">
+        <item>Health Freaks</item>
+        <item>GOLD\'S GYM</item>
+        <item>Body Care Multigym &amp; Fitness Centre</item>
+        <item>Talwalkars</item>
+        <item>Fitness</item>
+        <item>Health Care Multi Gym</item>
+        <item>Matrix Fitness</item>
+        <item>Body Language X Gym</item>
+        <item>B. Samridhi International Gym</item>
+        <item>Fit Line Fitness Gym</item>
+        <item>Crossfit Unisex Gym</item>
+        <item>Mama Multi Gym</item>
+        <item>Ultimate Fitness Gym</item>
+        <item>Mr.Fitness Gym</item>
+        <item>VOLTAGE FITNESS AND NUTRITION</item>
+        <item>Nikki Multi Gym</item>
+        <item>Arrow\'s GYM</item>
+        <item>Fitness Pro</item>
+        <item>Ultimate Fitness Multi Gym</item>
+
+    </string-array>
+    <string-array name="gymrates">
+        <item>4.3</item>
+        <item>3.9</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>5</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.3</item>
+        <item>4.7</item>
+        <item>2.5</item>
+        <item>5</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="gymd">
+        <item>Health Club</item>
+        <item>Gym</item>
+        <item>Gym</item>
+        <item>Gym</item>
+        <item>Health Club</item>
+        <item>Gym</item>
+        <item>Gym</item>
+        <item>Gym</item>
+        <item>Gym</item>
+        <item>Health Club</item>
+        <item>Gymnastics Center</item>
+        <item>Gym</item>
+        <item>Gym</item>
+        <item>Health Club</item>
+        <item>Aerobics Class</item>
+        <item>Gym</item>
+        <item>Gym</item>
+        <item>Gym</item>
+        <item>Gym</item>
+    </string-array>
+    <string-array name="cnames">
+        <item>Carnival Cinema</item>
+        <item>Fun Cinema Ranchi</item>
+        <item>SRS Cinemas</item>
+        <item>JD Hi Street Mall</item>
+        <item>Plaza Cinema</item>
+        <item>PVR Cinemas Ranchi</item>
+        <item>Sujata Cinema Hall</item>
+    </string-array>
+    <string-array name="crates">
+        <item>4.5</item>
+        <item>3.8</item>
+        <item>4.4</item>
+        <item>4.2</item>
+        <item>3</item>
+        <item>3.5</item>
+        <item>4</item>
+    </string-array>
+	   <string-array name="cdet">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string name="airport">Birsa Munda Airport is a domestic airport serving the city Ranchi and is managed by Airports Authority of India. It is located in Hinoo locality, approximately 7 km (4.3 mi) from the centre of the city. It is the 35th busiest airport in India. It is named after an Indian tribal freedom fighter Birsa Munda.\nThere is only one integrated Terminal with facilities for travel desks, lounges, etc. was inaugurated on 24 March 2013 in a function attended by Mr. Ajit Singh, Minister of Civil Aviation, Union rural development minister Jairam Ramesh, Jharkhand governor Syed Ahmed, Ranchi MP Subodh Kant Sahay and Rajya Sabha MP Pradeep Kumar Balmuchu. In the next few days, the tax on ATF was reduced from 20%% to 4%% to attract more airlines to the city. Also, night landing at BMA has been made free so that there may be more flights to the metro cities in the morning. The Airports Authority of India also announced the construction of three more parking bays, thereby making it the first Tier-II airport in India to have 8 planned parking bays. The old terminal is no longer used and remains closed for most of the time. It was shut down at midnight on 23 March 2013. The old terminal now has been converted to cargo terminal and was inaugurated on 10 February 2017 by Chief Minister of Jharkhand Raghubar Das. Ranchi Airport recently crossed 1 million passenger mark annually.</string>
+	<string name="rail">Ranchi Junction railway station, station code RNC, is the railway station serving the capital city of Ranchi in the Ranchi district in the Indian state of Jharkhand. Ranchi Station is also the headquarters of the Ranchi division of the South Eastern Railway Zone of the Indian Railway. The Ranchi Junction railway station is connected to most of the major cities in India by the railway network.\nRanchi has trains running frequently to Delhi, Kolkata and Patna. The city is a major railway hub and has four major stations: Ranchi Junction, Hatia Station, Tatisilwai Station and Namkom Station. Many important trains start from Hatia station as well.A new station serving Ranchi is coming up in July 2017 in Mesra, about 12 km from Ranchi Junction. The name of the station shall be Mesra. It is an important station on the upcoming Barkakana-Ranchi route.\nThere are 6 platforms in Ranchi junction. The platforms are interconnected with two foot over bridges (FOB) and an escalator.</string>
+    <string name="busran"></string>
+	<string name="title_activity_transport">transport</string>
+    <string name="q1"><b>Ranchi</b> is known as the \"City of Waterfalls\" because of its numerous waterfalls, the most well known of which are Dassam Falls, Hundru Falls, Jonha Falls, Hirni Falls, and Panchghagh Falls.</string>
+    <string name="q2"><ul>Everyone\’s favorite Captain Cool <b>M.S. Dhoni</b> was born in Ranchi, Jharkhand, and he identifies as being a Rajput. His paternal village Lvali is in the Lamgarha block of the Almora District of Uttarakhand. He studied at DAV Jawahar Vidya Mandir, Shyamali, Ranchi, Jharkhand where he initially excelled in badminton and football and was selected at district and club level in these sports.</ul></string>
+    <string name="q3"><ul>Although Ranchi has a humid subtropical climate, its location and the forests surrounding it combine to produce the unusually pleasant climate for which it\'s known. Its climate is the primary reason why Ranchi was once the summer capital of the undivided State of Bihar and was designated a preferable \"hill station\".</ul></string>
+    <string name="q4"><ul>Ranchi Rhinos Won First <b>HIL</b>.</ul></string>
+    <string name="q5"><b>HEC</b>is one of the largest Integrated Engineering Complex in India. It was among largest steel related production company in world in past.</string>
 </resources>
+

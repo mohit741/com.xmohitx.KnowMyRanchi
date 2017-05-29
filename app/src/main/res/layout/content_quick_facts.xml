@@ -7,11 +7,79 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.xmohitx.knowmyranchi.quick_facts"
     tools:showIn="@layout/activity_quick_facts">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#80ccffff">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ran"
+            android:text="@string/q1"
+            android:layout_margin="16dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/clim"
+            android:text="@string/q3"
+            android:layout_below="@id/ran"
+            android:layout_margin="16dp"
+             />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/msd"
+            android:text="@string/q2"
+            android:layout_margin="@dimen/text_margin"
+            android:layout_below="@id/clim"
+            android:layout_marginTop="25dp" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_margin="@dimen/text_margin"
-        android:text="Hii" />
+        <ImageView
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:id="@+id/imageView7"
+            android:layout_below="@id/msd"
+            android:layout_margin="16dp"
+            android:src="@drawable/dhoni"
+             />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rhino"
+            android:text="@string/q4"
+            android:layout_margin="@dimen/text_margin"
+            android:layout_below="@id/imageView7"
+            android:layout_marginTop="25dp" />
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="150dp"
+            android:id="@+id/imageView9"
+            android:layout_below="@id/rhino"
+            android:layout_margin="16dp"
+            android:src="@drawable/ranchi_rino"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/hec"
+            android:text="@string/q4"
+            android:layout_margin="@dimen/text_margin"
+            android:layout_below="@id/imageView9"
+            android:layout_marginTop="25dp" />
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="200dp"
+            android:id="@+id/imageView10"
+            android:layout_below="@id/rhino"
+            android:layout_margin="16dp"
+            android:src="@drawable/hec"
+            />
+
+
+    </RelativeLayout>
+
+
 
 </android.support.v4.widget.NestedScrollView>
