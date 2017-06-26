@@ -53,10 +53,13 @@
         <activity android:name=".malls" />
         <activity android:name=".theatres" />
         <activity android:name=".fitness" />
-        <activity android:name=".education" />
         <activity
             android:name=".transport"
             android:label="@string/title_activity_transport"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".police"
+            android:label="@string/title_activity_police"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

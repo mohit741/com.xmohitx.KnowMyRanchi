@@ -36,7 +36,7 @@ public class main_menu extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        Typeface tf2 = Typeface.createFromAsset(getAssets(), "fonts/ubuntu.ttf");
+        Typeface tf2 = Typeface.createFromAsset(getAssets(), "fonts/robotol.ttf");
         btn =(Button)findViewById(R.id.button2);
         if (btn != null) {
             btn.setTypeface(tf2);
@@ -77,7 +77,7 @@ public class main_menu extends AppCompatActivity
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent in2= new Intent(main_menu.this,places_to_visit.class);
+                Intent in2= new Intent(main_menu.this,Admin.class);
                 startActivity(in2);
             }
         });
@@ -109,7 +109,7 @@ public class main_menu extends AppCompatActivity
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
-            return true;
+            finish();
         }
 
         return super.onOptionsItemSelected(item);

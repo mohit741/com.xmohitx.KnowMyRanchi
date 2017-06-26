@@ -21,6 +21,7 @@ public class hospitals extends AppCompatActivity {
         String[] names=getResources().getStringArray(R.array.hmanes);
         String[] details=getResources().getStringArray(R.array.hd);
         String[] rates=getResources().getStringArray(R.array.hrates);
+        final String[] calls=getResources().getStringArray(R.array.hcall);
         adapter adapter= new adapter(this,names,details,rates);
         list.setAdapter(adapter);
         list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
@@ -41,8 +42,14 @@ public class hospitals extends AppCompatActivity {
                                     startActivity(in);
                                 break;
                             }
-                            case R.id.call: break;
-                    }
+                            case R.id.call:
+                            {
+                                Intent ci=new Intent(Intent.ACTION_DIAL);
+                                ci.setData(Uri.parse("tel:"+Uri.encode(calls[pos])));
+                                startActivity(ci);
+                                break;
+                            }
+                        }
                         return false;
                     }
                 });

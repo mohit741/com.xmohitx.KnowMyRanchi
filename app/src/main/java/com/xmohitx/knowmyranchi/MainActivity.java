@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity
         TextView tx3 = (TextView) findViewById(R.id.textView3);
         TextView tx4= (TextView) findViewById(R.id.textView);
         Typeface tf = Typeface.createFromAsset(getAssets(), "fonts/arch.ttf");
-        Typeface tf2 = Typeface.createFromAsset(getAssets(), "fonts/ubuntu.ttf");
+        Typeface tf2 = Typeface.createFromAsset(getAssets(), "fonts/typoroundi.otf");
         if(tx!=null)
             tx.setTypeface(tf);
         if(tx2!=null)
@@ -89,6 +89,7 @@ public class MainActivity extends AppCompatActivity
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+			finish();
             return true;
         }
 

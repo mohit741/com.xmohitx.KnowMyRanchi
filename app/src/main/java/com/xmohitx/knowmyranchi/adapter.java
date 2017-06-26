@@ -1,6 +1,7 @@
 package com.xmohitx.knowmyranchi;
 
 import android.content.Context;
+import android.graphics.Typeface;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,13 +18,14 @@ public class adapter extends ArrayAdapter<String> {
     String[] rate={};
     Context c;
     LayoutInflater inflater;
-
+    Typeface tf;
     public adapter(Context context, String[] names, String[] details, String[] rate) {
         super(context, R.layout.list,names);
         this.c=context;
         this.names=names;
         this.details=details;
         this.rate=rate;
+        this.tf=Typeface.createFromAsset(context.getAssets(), "fonts/robotom.ttf");
     }
     public class ViewHolder{
         TextView name;
@@ -43,6 +45,7 @@ public class adapter extends ArrayAdapter<String> {
         holder.detail=(TextView)convertView.findViewById(R.id.txt2);
         holder.rat=(RatingBar) convertView.findViewById(R.id.ratingBar);
         holder.name.setText(names[position]);
+        holder.name.setTypeface(tf);
         holder.detail.setText(details[position]);
         holder.rat.setRating(Float.parseFloat(rate[position]));
         return convertView;

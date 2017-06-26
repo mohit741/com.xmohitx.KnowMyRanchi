@@ -7,6 +7,122 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.xmohitx.knowmyranchi.Admin">
+    tools:context="com.xmohitx.knowmyranchi.Admin"
+    android:background="#80ccffff">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:id="@+id/policeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Police Stations >>>"
+                android:textColor="#FFFFFFFF"
+                android:gravity="center"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:background="@drawable/button_red"
+                android:shadowRadius="5.0"/>
+            <TextView
+                android:id="@+id/hctext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/hc"
+                android:textSize="25sp"
+                android:textColor="#000000"
+                android:layout_below="@id/policeButton"
+                android:layout_marginTop="25dp"
+                android:padding="10dp"/>
+            <ImageView
+                android:id="@+id/hc"
+                android:layout_width="300dp"
+                android:layout_height="220dp"
+                android:src="@drawable/hc"
+                android:layout_below="@id/hctext"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/highcbtn"
+                android:text="Visit website"
+                android:layout_below="@id/hc"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:background="#00000000"/>
+            <TextView
+                android:id="@+id/cctext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cc"
+                android:textSize="25sp"
+                android:textColor="#000000"
+                android:layout_below="@id/highcbtn"
+                android:layout_marginTop="15dp"/>
+            <ImageView
+                android:id="@+id/cc"
+                android:layout_width="300dp"
+                android:layout_height="220dp"
+                android:src="@drawable/civ"
+                android:layout_below="@id/cctext"
+                android:layout_marginTop="-5dp"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/civbtn"
+                android:text="Visit website"
+                android:layout_below="@id/cc"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:background="#00000000"/>
+            <TextView
+                android:id="@+id/dctext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dc"
+                android:textSize="25sp"
+                android:textColor="#000000"
+                android:layout_below="@id/civbtn"
+                android:layout_marginTop="15dp"/>
+            <ImageView
+                android:id="@+id/dc"
+                android:layout_width="300dp"
+                android:layout_height="220dp"
+                android:src="@drawable/dcoffice"
+                android:layout_below="@id/dctext"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/dcbtn"
+                android:text="Visit website"
+                android:layout_below="@id/dc"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:background="#00000000"/>
+            <TextView
+                android:id="@+id/rmctext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/rmc"
+                android:textSize="25sp"
+                android:textColor="#000000"
+                android:layout_below="@id/dcbtn"
+                android:layout_marginTop="15dp"/>
+            <ImageView
+                android:id="@+id/rmc"
+                android:layout_width="300dp"
+                android:layout_height="220dp"
+                android:src="@drawable/rmc"
+                android:layout_below="@id/rmctext"
+                android:layout_marginTop="15dp"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/rmcbtn"
+                android:text="Visit website"
+                android:layout_below="@id/rmc"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:background="#00000000"/>
+        </RelativeLayout>
+    </ScrollView>
 
 </RelativeLayout>

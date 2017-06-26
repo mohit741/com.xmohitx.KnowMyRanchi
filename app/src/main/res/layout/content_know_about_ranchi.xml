@@ -11,36 +11,55 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.xmohitx.knowmyranchi.know_about_ranchi"
     tools:showIn="@layout/app_bar_know_about_ranchi"
-    android:background="@color/highlighted_text_material_dark">
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="@string/know_my_ranchi1"
-        android:id="@+id/textView6"
-        android:layout_marginTop="30dp"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+   >
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/next"
-        android:id="@+id/button1"
-        android:textColor="@color/material_blue_grey_800"
-        android:textColorHighlight="@color/abc_search_url_text"
-        android:layout_gravity="center_horizontal|bottom"
-        style="@style/Base.ThemeOverlay.AppCompat.Light"
-        android:background="@drawable/button_round_edge"
-        android:backgroundTint="@color/material_deep_teal_500"
-        android:shadowColor="@color/background_floating_material_dark"
-        android:layout_marginTop="100dp"
-        android:layout_marginLeft="130dp"
-        android:layout_below="@+id/textView6"
-        android:drawableTint="@color/material_deep_teal_500"
-        android:ellipsize="none"
-        android:foregroundTint="@color/accent_material_dark"
-        android:enabled="true"
-        android:foregroundGravity="top|center_vertical|fill" />
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Proceed to Main Menu"
+                android:id="@+id/button1"
+                android:background="@drawable/button_round_edge"
+                android:shadowColor="@color/background_floating_material_dark"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="70dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                />
+
+            <ImageView
+             android:layout_width="350dp"
+             android:layout_height="220dp"
+             android:id="@+id/imgholder"
+             android:layout_marginTop="20dp"
+                android:layout_below="@id/button1"
+             />
+              <TextView
+             android:layout_width="300dp"
+                  android:layout_height="200dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:padding="16dp"
+                  android:id="@+id/textholder"
+                  android:fontFamily="cursive"
+            android:layout_marginTop="10dp"
+                  android:layout_below="@id/imgholder"/>
+
+             <Button
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:text="More Facts"
+             android:id="@+id/moreFacts"
+             android:layout_marginLeft="120dp"
+             android:layout_marginTop="-15dp"
+             android:background="@drawable/button_round_edge"
+             android:paddingLeft="20dp"
+                 android:layout_below="@id/textholder"
+             android:paddingRight="20dp"/>
+        </RelativeLayout>
+    </ScrollView>
+
 </RelativeLayout>

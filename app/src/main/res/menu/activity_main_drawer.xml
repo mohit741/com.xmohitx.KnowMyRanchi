@@ -6,7 +6,7 @@
         <item
             android:id="@+id/quick_facts"
             android:icon="@drawable/bulb"
-            android:title="Quick Facts" />
+            android:title="Facts about Ranchi" />
         <item
             android:id="@+id/places_to_visit"
             android:icon="@drawable/rooms"

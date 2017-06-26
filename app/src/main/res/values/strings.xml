@@ -4,93 +4,89 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_settings">Settings</string>
     <string name="welcome">Welcome</string>
     <string name="to">To</string>
     <string name="know_my_ranchi">Know My Ranchi</string>
-    <string name="title_activity_main2">Main2Activity</string>
-    <string name="section_format">Hello World from section: %1$d</string>
-    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_about">About the App</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="quickfacts">QuickFacts</string>
     <string name="title_activity_know_about_ranchi">Know about Ranchi</string>
     <string name="title_activity_main_menu">Main Menu</string>
     <string name="next">Next</string>
     <string name="are_you_new_to_ranchi">Are you new to Ranchi ?</string>
     <string name="this_app_will_help_you_know_ranchi">This app will help you know Ranchi better.</string>
     <string name="app">App</string>
-    <string name="know_my_ranchi1"><b>Ranchi</b> is the capital city of Jharkhand. It is also known as the city of falls.</string>
-    <string name="title_activity_quick_facts">Quick facts</string>
-    <string name="jonha">
-       Situated at an edge of the Ranchi plateau, the Jonha Falls is an example of a hanging valley falls. The Gunga River hangs over its master stream, Raru River and forms the falls.One has to descend 722 steps to admire the surroundings.Water in the falls drops from a height of 43 metres (141 ft).\nThe Jonha Falls is 40 kilometres (25 mi) from Ranchi. It is approachable by both road and train.Jonha Station is just 1.5 km from the fall. For travel by road, one has to take the Ranchi-Purulia Road and after travelling for about 20 miles (32 km) one has to travel about 3 miles (4.8 km) off the main road.
-    </string>
+    <string name="title_activity_quick_facts">Facts about Ranchi</string>
+    <string name="jonha">Situated at an edge of the Ranchi plateau, the Jonha Falls is an example of a hanging valley falls. The Gunga River hangs over its master stream, Raru River and forms the falls.One has to descend 722 steps to admire the surroundings.Water in the falls drops from a height of 43 metres (141 ft).\nThe Jonha Falls is 40 kilometres (25 mi) from Ranchi. It is approachable by both road and train.Jonha Station is just 1.5 km from the fall. For travel by road, one has to take the Ranchi-Purulia Road and after travelling for about 20 miles (32 km) one has to travel about 3 miles (4.8 km) off the main road.</string>
     <string name="places_to_visit">Places to visit</string>
-    <string name="panchgagh">In its bid to find its way through the hard and jagged terrain, the Banai River branches itself out in five different streams, generating ubiquitous singing rivulets through the cluster of rocks. One writer says, “Unlike Jonha and Hundru Falls, Panchghagh\’s water does not fall from great heights. Still, one can almost hear the roar of the water when one arrives near it, because all the five branched-out and swirling streams hit the rocks in a very turbulent manner. It\’s a treat to watch and hear.” In spite of the presence of a large number of high waterfalls in the area, the Panchghagh Falls are a tourists\' preference for being viewed as the safest of all. The water falls from a lesser height, making it safe for tourists to enjoy in the rapid flow of water. Most of the people arrive here for picnic with family and friends.According to plans of the Tourism Department of the Government of Jharkhand, the Panchghagh Waterfalls will soon get a kiosk, a restaurant, toilets, fastfood joints, lighting facilities and a watchtower.\nPanchghagh Falls is 5 kilometres (3.1 mi) from Khunti on the road to Simdega. It is 55 kilometres (34 mi) from Ranchi. Khunti is on NH 75 or Ranchi-Chaibasa Highway.</string>
+    <string name="panchgagh">In its bid to find its way through the hard and jagged terrain, the Banai River branches itself out in five different streams, generating ubiquitous singing rivulets through the cluster of rocks. One writer says, \“Unlike Jonha and Hundru Falls, Panchghagh\’s water does not fall from great heights. Still, one can almost hear the roar of the water when one arrives near it, because all the five branched-out and swirling streams hit the rocks in a very turbulent manner. It\’s a treat to watch and hear.\” In spite of the presence of a large number of high waterfalls in the area, the Panchghagh Falls are a tourists\' preference for being viewed as the safest of all. The water falls from a lesser height, making it safe for tourists to enjoy in the rapid flow of water. Most of the people arrive here for picnic with family and friends.According to plans of the Tourism Department of the Government of Jharkhand, the Panchghagh Waterfalls will soon get a kiosk, a restaurant, toilets, fastfood joints, lighting facilities and a watchtower.\nPanchghagh Falls is 5 kilometres (3.1 mi) from Khunti on the road to Simdega. It is 55 kilometres (34 mi) from Ranchi. Khunti is on NH 75 or Ranchi-Chaibasa Highway.</string>
     <string name="find_in_ranchi">Find in Ranchi</string>
-    <string name="dassam">The Dassam Fall (also known as Dassam Ghagh) is a waterfall located near Taimara village in Bundu police station of Ranchi district in the Indian state of Jharkhand.
-The Dassam Falls is a natural cascade across the Kanchi River, a tributary of the Subarnarekha River. The water falls from a height of 44 metres (144 ft). The sound of water echoes all around the place. Dassam Falls at one of the edges of the Ranchi plateau is one of the many scarp falls in the region.
-The water of the Dassam Falls is very clean and clear. It is natural for a tourist to be enticed to enter the water for a bath or swim but tourists are warned not to do so because of the current that is generated. There have been many cases of drowning in Dassam Falls. Nine people died of drowning between 2001 and 2006.\nThe Dassam Falls is 40 kilometres (25 mi) from Ranchi on NH 33 or Ranchi-Jamshedpur highway.
-</string>
+    <string name="dassam">The Dassam Fall (also known as Dassam Ghagh) is a waterfall located near Taimara village in Bundu police station of Ranchi district in the Indian state of Jharkhand. The Dassam Falls is a natural cascade across the Kanchi River, a tributary of the Subarnarekha River. The water falls from a height of 44 metres (144 ft). The sound of water echoes all around the place. Dassam Falls at one of the edges of the Ranchi plateau is one of the many scarp falls in the region. The water of the Dassam Falls is very clean and clear. It is natural for a tourist to be enticed to enter the water for a bath or swim but tourists are warned not to do so because of the current that is generated. There have been many cases of drowning in Dassam Falls. Nine people died of drowning between 2001 and 2006.\nThe Dassam Falls is 40 kilometres (25 mi) from Ranchi on NH 33 or Ranchi-Jamshedpur highway.</string>
     <string name="administration">Administration</string>
-    <string name="title_item_list">Items</string>
-    <string name="title_item_detail">Item Detail</string>
     <string name="title_activity_places_to_visit">Places to visit in Ranchi</string>
     <string name="viewmap">Get directions…</string>
     <string name="txtpahari">Pahari mandir ( Hill Temple ) is located at Ratu road in Ranchi is popular for Lord Shiva temple at the pinnacle of the hill. Breathtaking view of Ranchi city from the top of the hill is awesome. The distance of Pahari mandir from Ranchi railway station is 7 kms. Recently Pahari mandir was in news for hoisting largest national flag of India over tallest pole.</string>
     <string name="txtrock">A beautiful place to hang out with friends, families, relatives and loved ones. Entry ticket Rs.20 per adult. Vehicle parking facilities available.</string>
-    <string name="title_activity_about">About</string>
+    <string name="txthundru">The Hundru Falls is created on the course of the Subarnarekha River, where it falls from a height of 98 metres (322 ft) creating one of the highest water falls in the state. The spectacular scene of water falling from such a great height has been described as a sight to behold. During rainy season it takes a formidable form but in the dry season it turns into an exciting picnic spot. At the base of the Hundru Falls, there is a pool, which serves as a bathing place\nIt is 45 kilometres (28 mi) from Ranchi, off the Ranchi-Purulia Road. One has to travel some about 21 kilometres (13 mi) from the main road. There is also a Shortcut and simple four-lane road from Ranchi via Ormanjhi via Sikidiri to Hundru. From this road the distance is about 39 kilometres (24 mi) which is about 6 kilometres (3.7 mi) short from the normal road.</string>
+    <string name="txtthill">Tagore hill is another major attraction which is associated with Ravindranath Tagore, the great indian laureate. It is believed that he wrote many books including few pages of his poetry collection book \” Gitanjali \” in the tranquil environment of this hill.Tagore hill also known as morhabadi hill, has a height of 300 feet. It is located at a distance of 4 km from city center.\nA house built by tagore family which is now in abondoned condition is also located on the hill top. A picturesque view of ranchi city can be seen from the top of the hill.</string>
+    <string name="txtzoo">Bhagwan Birsa Jaiwik Udyaan, Ormanjhi. This is an excellent biological park to visit.</string>
+    <string name="txtrukka">Rukka Dam (Getalsud Dam) (8 kms from booty more). A big dam on the outskirts of the city. It offers an excellent ambiance for picnic and recreation.</string>
+    <string name="txthirni">Hirni falls is located at a distance of 90 kms from ranchi in bandgaon hills on ranchi chaibasa road. The falls is formed due to 37 meters cascading of ramgraha river in the dense forest of bandgaon. Hirni falls surrounding presents picturesque beauty of nature.</string>
+    <string name="txtcroc">Muta crocodile breeding center is another major attraction of ranchi surroundings. Located at a distance of 36 kms from ranchi, Muta crocodile breeding center offers tourists to view crocodiles in their natural habitat in bhairavi river. A small zoo which includes spotted deer, peacock and and few other water birds are major attraction.</string>
+    <string name="txtpvalley">Flanked by hills covered with lush green trees, red and violet flowers and honey bees humming, the Pithouria-Patratu Valley is no less attractive than the valleys on the Gangtok-Nathula, Dehradun-Mussouri and Raxaul-Kathmandu roads in terms of natural elegance. Of course, the hills along the Pithouria-Patratu stretch are devoid of snow, unlike the ones on Gangtok-Nathula. But green saal, sakhuwa and bamboos with flowers, in a riot of colours, more than make up for the absence of snow. The jingle-jangle of waterfalls and rivulets rushing through the stones, soothed the ears, and eyes, even more than any maestro\'s music.</string>
+    <string name="txtrpark">Simple amusement park with go-karts, boating, various kids\' rides &amp; a small cafe.</string>
+
     <string-array name="restnames">
         <item>The Kaveri Restaurant</item>
         <item>Seasons</item>
         <item>Seventh Heaven</item>
-<item>Yellow Sapphire</item>
-<item>Jungli Moon Dance Restaurant</item>
-<item>Moti Mahal Delux Tandoori Trail</item>
-<item>Food Belle Restaurant</item>
-<item>Mahi Restaurants &amp; Banquets</item>
-<item>Hot Lips</item>
-<item>The Kav\'s Restaurant</item>
-<item>Planet Masala</item>
-<item>Angithi Restaurant</item>
-<item>Silver Spoon</item>
-<item>Trishna Family Restaurant</item>
-<item>Krsna Restaurant</item>
-<item>Palash Restaurant</item>
-<item>The Best Restaurant</item>
-<item>Bawarchi</item>
-<item>Hot Lips</item>
-<item>Dawat Restaurant</item>
-<item>Aroma Family Restaurant</item>
-<item>Jungli Restaurant</item>
-<item>Vyanjan Restaurant</item>
-<item>Flaves</item>
-<item>Chashm -e- Shahi</item>
-<item>Addiction</item>
-<item>PRANA</item>
-<item>Hotel Raj Gharana</item>
-<item>Mumbai Mail</item>
-<item>FLY KITCHEN</item>
-<item>Zero Mile Restaurant &amp; Banquets</item>
-<item>Kanha\'s Kitchen AC, Family Restaurant</item>
-<item>SUBWAY RANCHI</item>
-<item>Pizza Hut, Ranchi</item>
-<item>Junglee Restaurant</item>
-<item>Punjabi Kitchen</item>
-<item>Gaon Restaurant</item>
-<item>Birsa Munda Food Plaza</item>
-<item>Lazeez Restaurant</item>
-<item>Chennai Kitchen</item>
-<item>KFC</item>
-<item>OMG</item>
-<item>Little Italiano</item>
-<item>Hotlips Inn</item>
-<item>Eatopedia Food Lounge</item>
+        <item>Yellow Sapphire</item>
+        <item>Jungli Moon Dance Restaurant</item>
+        <item>Moti Mahal Delux Tandoori Trail</item>
+        <item>Food Belle Restaurant</item>
+        <item>Mahi Restaurants &amp; Banquets</item>
+        <item>Hot Lips</item>
+        <item>The Kav\'s Restaurant</item>
+        <item>Planet Masala</item>
+        <item>Angithi Restaurant</item>
+        <item>Silver Spoon</item>
+        <item>Trishna Family Restaurant</item>
+        <item>Krsna Restaurant</item>
+        <item>Palash Restaurant</item>
+        <item>The Best Restaurant</item>
+        <item>Bawarchi</item>
+        <item>Hot Lips</item>
+        <item>Dawat Restaurant</item>
+        <item>Aroma Family Restaurant</item>
+        <item>Jungli Restaurant</item>
+        <item>Vyanjan Restaurant</item>
+        <item>Flaves</item>
+        <item>Chashm -e- Shahi</item>
+        <item>Addiction</item>
+        <item>PRANA</item>
+        <item>Hotel Raj Gharana</item>
+        <item>Mumbai Mail</item>
+        <item>FLY KITCHEN</item>
+        <item>Zero Mile Restaurant &amp; Banquets</item>
+        <item>Kanha\'s Kitchen AC, Family Restaurant</item>
+        <item>SUBWAY RANCHI</item>
+        <item>Pizza Hut, Ranchi</item>
+        <item>Junglee Restaurant</item>
+        <item>Punjabi Kitchen</item>
+        <item>Gaon Restaurant</item>
+        <item>Birsa Munda Food Plaza</item>
+        <item>Lazeez Restaurant</item>
+        <item>Chennai Kitchen</item>
+        <item>KFC</item>
+        <item>OMG</item>
+        <item>Little Italiano</item>
+        <item>Hotlips Inn</item>
+        <item>Eatopedia Food Lounge</item>
         <item>Top\' N Town</item>
         <item>New Anand Vatika Restaurant</item>
         <item>Cafe Mughal\'s</item>
-        <item>Chopsticks Restaurant</item><item>HOOCH</item>
+        <item>Chopsticks Restaurant</item>
+        <item>HOOCH</item>
         <item>Mr &amp; Mrs IDLY</item>
         <item>Olive Restaurant</item>
         <item>Olive Restaurant</item>
@@ -272,28 +268,52 @@ The water of the Dassam Falls is very clean and clear. It is natural for a touri
         <item>5</item>
         <item>5</item>
     </string-array>
-	<string-array name="hd">
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
-	<item> </item>
+    <string-array name="hd">
         <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item> </item>
+    </string-array>
+    <string-array name="hcall">
+        <item>06513011111</item>
+        <item>06517100100</item>
+        <item>06512332234</item>
+        <item>09204055638</item>
+        <item>06516606000</item>
+        <item>06512282929</item>
+        <item>07070991111</item>
+        <item>06516453068</item>
+        <item>06512531188</item>
+        <item> </item>
+        <item> </item>
+        <item>06516457901</item>
+        <item>06512460506</item>
+        <item>06516535354 </item>
+        <item>06512544133 </item>
+        <item>06517110110</item>
+        <item>06516459645 </item>
+        <item>06512561822</item>
+        <item>06517123100 </item>
+        <item>06512350839 </item>
+        <item>06512282272</item>
         <item> </item>
     </string-array>
 
@@ -303,36 +323,36 @@ The water of the Dassam Falls is very clean and clear. It is natural for a touri
         <item>M.R. Shopping Centre</item>
         <item>Eastern Mall</item>
         <item>Spring City Mall</item>
-         <item>Big Shop</item>
+        <item>Big Shop</item>
         <item>Nucleus Mall Ranchi Square</item>
         <item>Panchwati Plaza</item>
         <item>Big Shop</item>
         <item>Manyavar</item>
-        <item>YMCA Ranchi</item>
+        <item>YMCA</item>
         <item>Ranchi Bazaar</item>
         <item>Rospa Tower</item>
         <item>Vishal Mega Mart</item>
         <item>Malabar Enclave</item>
-         <item>FYNkart</item>
+        <item>FYNkart</item>
         <item>CITY STYLE</item>
         <item>Kashmir Vastralaya Collections</item>
-        <item>WOODLAND SHOW ROOM</item>
-         <item>Urvashi</item>
+        <item>WOODLAND Show Room</item>
+        <item>Urvashi</item>
         <item>Pantaloons</item>
         <item>Big Bazar</item>
-         <item>Fabindia</item>
-         <item>Firstcry.com Baby Store</item>
-         <item>Plastic Centre - Best Plastic Goods Shops</item>
-         <item>IMPRESSION - Top Sports Shop in Ranchi</item>
-         <item>The Raymond Shop</item>
-         <item>Sri Ratan Jewellers</item>
-         <item>Swadeshi Ashram Product Shop</item>
-          <item>JHARCRAFT</item>
-         <item>R.C. Firayalal &amp; Co.</item>
-         <item>Radhima Collection</item>
-         <item>Scooby Doo Pet Shop</item>
-         <item>Ferns N Petals – Florist &amp; Gift Shop</item>
-</string-array>
+        <item>Fabindia</item>
+        <item>Firstcry.com Baby Store</item>
+        <item>Plastic Centre - Best Plastic Goods Shops</item>
+        <item>IMPRESSION</item>
+        <item>The Raymond Shop</item>
+        <item>Sri Ratan Jewellers</item>
+        <item>Swadeshi Ashram Product Shop</item>
+        <item>JHARCRAFT</item>
+        <item>R.C. Firayalal &amp; Co.</item>
+        <item>Radhima Collection</item>
+        <item>Scooby Doo Pet Shop</item>
+        <item>Ferns N Petals – Florist &amp; Gift Shop</item>
+    </string-array>
 
     <string-array name="mrates">
         <item>3.7</item>
@@ -367,7 +387,7 @@ The water of the Dassam Falls is very clean and clear. It is natural for a touri
         <item>3</item>
         <item>4.4</item>
         <item>3.8</item>
-		<item>4.4</item>
+        <item>4.4</item>
         <item>3.8</item>
     </string-array>
     <string-array name="mdetails">
@@ -472,23 +492,23 @@ The water of the Dassam Falls is very clean and clear. It is natural for a touri
     </string-array>
     <string-array name="cnames">
         <item>Carnival Cinema</item>
-        <item>Fun Cinema Ranchi</item>
+        <item>Fun Cinema</item>
         <item>SRS Cinemas</item>
-        <item>JD Hi Street Mall</item>
+        <item>PopKorn Cinema</item>
         <item>Plaza Cinema</item>
         <item>PVR Cinemas Ranchi</item>
         <item>Sujata Cinema Hall</item>
     </string-array>
     <string-array name="crates">
-        <item>4.5</item>
+        <item>4.2</item>
         <item>3.8</item>
         <item>4.4</item>
-        <item>4.2</item>
+        <item>4.1</item>
         <item>3</item>
         <item>3.5</item>
         <item>4</item>
     </string-array>
-	   <string-array name="cdet">
+    <string-array name="cdet">
         <item> </item>
         <item> </item>
         <item> </item>
@@ -497,14 +517,47 @@ The water of the Dassam Falls is very clean and clear. It is natural for a touri
         <item> </item>
         <item> </item>
     </string-array>
-    <string name="airport">Birsa Munda Airport is a domestic airport serving the city Ranchi and is managed by Airports Authority of India. It is located in Hinoo locality, approximately 7 km (4.3 mi) from the centre of the city. It is the 35th busiest airport in India. It is named after an Indian tribal freedom fighter Birsa Munda.\nThere is only one integrated Terminal with facilities for travel desks, lounges, etc. was inaugurated on 24 March 2013 in a function attended by Mr. Ajit Singh, Minister of Civil Aviation, Union rural development minister Jairam Ramesh, Jharkhand governor Syed Ahmed, Ranchi MP Subodh Kant Sahay and Rajya Sabha MP Pradeep Kumar Balmuchu. In the next few days, the tax on ATF was reduced from 20%% to 4%% to attract more airlines to the city. Also, night landing at BMA has been made free so that there may be more flights to the metro cities in the morning. The Airports Authority of India also announced the construction of three more parking bays, thereby making it the first Tier-II airport in India to have 8 planned parking bays. The old terminal is no longer used and remains closed for most of the time. It was shut down at midnight on 23 March 2013. The old terminal now has been converted to cargo terminal and was inaugurated on 10 February 2017 by Chief Minister of Jharkhand Raghubar Das. Ranchi Airport recently crossed 1 million passenger mark annually.</string>
-	<string name="rail">Ranchi Junction railway station, station code RNC, is the railway station serving the capital city of Ranchi in the Ranchi district in the Indian state of Jharkhand. Ranchi Station is also the headquarters of the Ranchi division of the South Eastern Railway Zone of the Indian Railway. The Ranchi Junction railway station is connected to most of the major cities in India by the railway network.\nRanchi has trains running frequently to Delhi, Kolkata and Patna. The city is a major railway hub and has four major stations: Ranchi Junction, Hatia Station, Tatisilwai Station and Namkom Station. Many important trains start from Hatia station as well.A new station serving Ranchi is coming up in July 2017 in Mesra, about 12 km from Ranchi Junction. The name of the station shall be Mesra. It is an important station on the upcoming Barkakana-Ranchi route.\nThere are 6 platforms in Ranchi junction. The platforms are interconnected with two foot over bridges (FOB) and an escalator.</string>
-    <string name="busran"></string>
-	<string name="title_activity_transport">transport</string>
+    <string-array name="psnames">
+        <item>Jharkhand Police Headquarter</item>
+        <item>Sukhdevnagar Police Station</item>
+        <item>Daily Market Police Station</item>
+        <item>Lalpur Police Station</item>
+        <item>Dhurwa Police Station</item>
+        <item>Jagannathpur Thana</item>
+        <item>Namkum Police Station</item>
+        <item>Chutia Police Station</item>
+    </string-array>
+    <string-array name="pcall">
+        <item>06512400737</item>
+        <item> </item>
+        <item>06512205409</item>
+        <item>06512203754</item>
+        <item>09931436215</item>
+        <item>06512442692</item>
+        <item>06512261900</item>
+        <item>06512461880</item>
+    </string-array>
+    <string name="title_activity_transport">Transportation</string>
     <string name="q1"><b>Ranchi</b> is known as the \"City of Waterfalls\" because of its numerous waterfalls, the most well known of which are Dassam Falls, Hundru Falls, Jonha Falls, Hirni Falls, and Panchghagh Falls.</string>
     <string name="q2"><ul>Everyone\’s favorite Captain Cool <b>M.S. Dhoni</b> was born in Ranchi, Jharkhand, and he identifies as being a Rajput. His paternal village Lvali is in the Lamgarha block of the Almora District of Uttarakhand. He studied at DAV Jawahar Vidya Mandir, Shyamali, Ranchi, Jharkhand where he initially excelled in badminton and football and was selected at district and club level in these sports.</ul></string>
-    <string name="q3"><ul>Although Ranchi has a humid subtropical climate, its location and the forests surrounding it combine to produce the unusually pleasant climate for which it\'s known. Its climate is the primary reason why Ranchi was once the summer capital of the undivided State of Bihar and was designated a preferable \"hill station\".</ul></string>
+    <string name="q3">Although Ranchi has a humid subtropical climate, its location and the forests surrounding it combine to produce the unusually pleasant climate for which it\'s known. Its climate is the primary reason why Ranchi was once the summer capital of the undivided State of Bihar and was designated a preferable \"hill station\".\nIt lies on the same latitude as Richard Branson\'s Necker Islands in Hawaii (23\°26\′N).(It lies on the Tropic of cancer). Also Ranchi and Karachi (24.86 \'N) lie within 1 degree latitudes of each other.\nAt an average of 641 m , it is situated at a significantly higher altitude than Dehradun (435 m)</string>
     <string name="q4"><ul>Ranchi Rhinos Won First <b>HIL</b>.</ul></string>
-    <string name="q5"><b>HEC</b>is one of the largest Integrated Engineering Complex in India. It was among largest steel related production company in world in past.</string>
+    <string name="q5"><b>HEC</b> is one of the largest Integrated Engineering Complex in India. It was among largest steel related production company in world in past.</string>
+    <string name="q6">The C.I.P., Kanke is the largest mental hospital in country. I see where we get that bit of eccentricity from. Hahaha, just kidding.</string>
+    <string name="q7"><b>Some unknown facts about Ranchi are:</b></string>
+    <string name="q8">It is one of the very few Indian cities to have had a British ship named after it...\nThe <b>SS Ranchi</b> was a British passenger and cargo carrying ocean liner. During World War II she served as an armed merchant cruiser HMS Ranchi.</string>
+    <string name="q9">Up until the late 80\'s ,to some extent ,even well into the 90\'s , Ranchi was considered a semi- Hill station ,with the temperatures coming very close to zero in the winters .It was an easily accessible summer getaway for the \'Calcatian Bhadralok\'. Even the industrialist Aditya Birla and his wife Rajasree are said to have honeymooned in Ranchi.\n\nThe year 1983 also saw Ranchi fall to the Hip Hip Hurray phenomenon. Hip Hip Hurray was the first film directed by the now famous director Prakash Jha. And he shot the movie in two schools in Ranchi, Vikas Vidyalaya and the Bishop Westcott.</string>
+    <string name="airtxt"><b>Birsa Munda Airport</b> is a domestic airport serving the city Ranchi and is managed by Airports Authority of India. It is located in Hinoo locality, approximately 7 km (4.3 mi) from the centre of the city. It is the 35th busiest airport in India. It is named after an Indian tribal freedom fighter Birsa Munda.\n\n<b>Terminals</b>\nThere is only one integrated Terminal with facilities for travel desks, lounges, etc. was inaugurated on 24 March 2013 in a function attended by Mr. Ajit Singh, Minister of Civil Aviation. In the next few days, the tax on ATF was reduced from 20%% to 4%% to attract more airlines to the city. Also, night landing at BMA has been made free so that there may be more flights to the metro cities in the morning. The Airports Authority of India also announced the construction of three more parking bays, thereby making it the first Tier-II airport in India to have 8 planned parking bays. The old terminal is no longer used and remains closed for most of the time. It was shut down at midnight on 23 March 2013. The old terminal now has been converted to cargo terminal.</string>
+    <string name="railtxt"><b>Ranchi Junction railway station</b>, station code RNC, is the railway station serving the capital city of Ranchi in the Ranchi district in the Indian state of Jharkhand. Ranchi Station is also the headquarters of the Ranchi division of the South Eastern Railway Zone of the Indian Railway. The Ranchi Junction railway station is connected to most of the major cities in India by the railway network.\nRanchi has trains running frequently to Delhi, Kolkata and Patna. The city is a major railway hub and has four major stations: Ranchi Junction, Hatia Station, Tatisilwai Station and Namkom Station. Many important trains start from Hatia station as well. A new station serving Ranchi is coming up in July 2017 in Mesra, about 12 km from Ranchi Junction. The name of the station shall be Mesra. It is an important station on the upcoming Barkakana-Ranchi route.\n\n<b>Platforms</b>\nThere are 6 platforms in Ranchi junction. The platforms are interconnected with two foot over bridges (FOB) and an escalator.</string>
+    <string name="bustxt"><b>Ranchi</b> is well connected to neighbouring cities (or states) by means of bus transport. Intra-city bus transport is also available.</string>
+    <string name="at"><b>Air Transport</b></string>
+    <string name="rt"><b>Railway</b></string>
+    <string name="bt"><b>Bus Service</b></string>
+    <string name="ms"><ul>Everyone’s favorite Captain Cool <b>M.S. Dhoni</b> was born in Ranchi. He studied at DAV Jawahar Vidya Mandir,Shyamali,Ranchi,where he initially excelled in badminton and football and was selected at district and club level in these sports.</ul></string>
+    <string name="hc"><b>High Court</b></string>
+    <string name="cc"><b>Civil Court</b></string>
+    <string name="dc"><b>D.C Office</b></string>
+    <string name="rmc"><b>Ranchi Municipal Corporation</b></string>
+    <string name="title_activity_police">Police Stations</string>
 </resources>
 

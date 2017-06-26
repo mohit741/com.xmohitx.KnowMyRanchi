@@ -1,6 +1,7 @@
 package com.xmohitx.knowmyranchi;
 
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -12,10 +13,23 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+import java.util.Random;
 
 public class know_about_ranchi extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
     Button btn;
+    TextView txtv,t;
+    ImageView iv,i;
+    Typeface tf;
+
+    public static int getR(Integer [] arr)
+    {
+        int rnd= new Random().nextInt(arr.length);
+        return rnd;
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,13 +46,30 @@ public class know_about_ranchi extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-        Integer[] ids={};
+        Integer[] text={R.string.ms,R.string.q4,R.string.q5,R.string.q6,R.string.q8};
+        Integer[] imgids={R.drawable.dhoni,R.drawable.ranchi_rino,R.drawable.hec,R.drawable.cip,R.drawable.ssranchi};
+        int rand = getR(text);
+        TextView txtv=(TextView)findViewById(R.id.textholder);
+        txtv.setText(text[rand]);
+        ImageView iv=(ImageView)findViewById(R.id.imgholder);
+        iv.setImageResource(imgids[rand]);
+        tf=Typeface.createFromAsset(getAssets(), "fonts/robotoi.ttf");
 
         btn =(Button)findViewById(R.id.button1);
+        btn.setTypeface(tf);
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent in= new Intent(know_about_ranchi.this,main_menu.class);
+                startActivity(in);
+            }
+        });
+        btn =(Button)findViewById(R.id.moreFacts);
+        btn.setTypeface(tf);
+        btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent in= new Intent(know_about_ranchi.this,quick_facts.class);
                 startActivity(in);
             }
         });
@@ -70,6 +101,7 @@ public class know_about_ranchi extends AppCompatActivity
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+			finish();
             return true;
         }
 
