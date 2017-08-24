@@ -23,5 +23,14 @@
         android:text="Content source: Google"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:layout_below="@id/listView1"/>
-
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-3933002442117887/2638117073"
+        android:layout_alignParentBottom="true">
+    </com.google.android.gms.ads.AdView>
 </RelativeLayout>

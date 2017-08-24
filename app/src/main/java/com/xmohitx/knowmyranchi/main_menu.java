@@ -16,14 +16,23 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
+
 public class main_menu extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
     Button btn,btn2;
+    private InterstitialAd mInterstitialAd;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_menu);
+        mInterstitialAd = new InterstitialAd(this);
+        mInterstitialAd.setAdUnitId("ca-app-pub-3933002442117887/8262156457");
+        mInterstitialAd.loadAd(new AdRequest.Builder()
+                //.addTestDevice("DD00043B08133B6D4FF1AC350641EEE1")
+                .build());
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
@@ -35,6 +44,8 @@ public class main_menu extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
+
+
 
         Typeface tf2 = Typeface.createFromAsset(getAssets(), "fonts/robotol.ttf");
         btn =(Button)findViewById(R.id.button2);
@@ -55,8 +66,12 @@ public class main_menu extends AppCompatActivity
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
                 Intent in2= new Intent(main_menu.this,places_to_visit.class);
                 startActivity(in2);
+                if (mInterstitialAd.isLoaded())
+                    mInterstitialAd.show();
+
             }
         });
         btn =(Button)findViewById(R.id.button4);

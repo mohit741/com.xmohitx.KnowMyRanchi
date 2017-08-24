@@ -12,13 +12,21 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 public class restaurants extends AppCompatActivity {
     ListView list;
-
+    private AdView mAdView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_restaurants);
+        mAdView = (AdView) findViewById(R.id.adView2);
+        AdRequest adRequest = new AdRequest.Builder()
+                //.addTestDevice("DD00043B08133B6D4FF1AC350641EEE1")
+                .build();
+        mAdView.loadAd(adRequest);
         list=(ListView)findViewById(R.id.listView);
         String[] names=getResources().getStringArray(R.array.restnames);
         String[] details=getResources().getStringArray(R.array.restd);

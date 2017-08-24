@@ -10,13 +10,22 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+
 public class theatres extends AppCompatActivity {
 
     ListView list;
+    private AdView mAdView;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_theatres);
+        mAdView = (AdView) findViewById(R.id.adView3);
+        AdRequest adRequest = new AdRequest.Builder()
+                //.addTestDevice("DD00043B08133B6D4FF1AC350641EEE1")
+                .build();
+        mAdView.loadAd(adRequest);
         list=(ListView)findViewById(R.id.listView3);
         String[] names=getResources().getStringArray(R.array.cnames);
         String[] details=getResources().getStringArray(R.array.cdet);
